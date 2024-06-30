@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+**jsonl
+__pycache__/
+venv-*
